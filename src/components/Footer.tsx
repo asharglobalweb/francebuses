@@ -66,7 +66,7 @@ export default function Footer() {
 
                     {/* Social - WhatsApp only */}
                     <div className="text-center sm:text-left">
-                        <h4 className="text-white font-semibold mb-4 text-sm sm:text-base">Follow Us</h4>
+                        <h4 className="text-white font-semibold mb-4 text-sm sm:text-base">Contact Us</h4>
                         <div className="flex justify-center sm:justify-start space-x-4">
                             {icons.map(({ Icon, href, id }) => (
                                 <Link
