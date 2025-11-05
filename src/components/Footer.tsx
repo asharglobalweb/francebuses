@@ -49,7 +49,7 @@ export default function Footer() {
                         <ul className="space-y-2 text-sm sm:text-base">
                             <li><Link href="/corporate-events" className="hover:text-white">Corporate events</Link></li>
                             <li><Link href="/school-trips" className="hover:text-white">School trips</Link></li>
-                            <li><Link href="/corporate-events" className="hover:text-white">Shuttles</Link></li>
+                            <li><Link href="/shuttles" className="hover:text-white">Shuttles</Link></li>
                             <li><Link href="/transfers" className="hover:text-white">Transfers</Link></li>
                             <li><Link href="/school-trips" className="hover:text-white">Home to school</Link></li>
                         </ul>

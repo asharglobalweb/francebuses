@@ -96,7 +96,7 @@
         "transform": "lodash/{{member}}"
       }
     },
-    "outputFileTracingRoot": "C:\\Users\\ashar\\OneDrive\\Desktop\\bus",
+    "outputFileTracingRoot": "C:\\Users\\ashar\\OneDrive\\Desktop\\bus france",
     "experimental": {
       "nodeMiddleware": false,
       "cacheLife": {
@@ -279,10 +279,10 @@
     "bundlePagesRouterDependencies": false,
     "configFileName": "next.config.ts",
     "turbopack": {
-      "root": "C:\\Users\\ashar\\OneDrive\\Desktop\\bus"
+      "root": "C:\\Users\\ashar\\OneDrive\\Desktop\\bus france"
     }
   },
-  "appDir": "C:\\Users\\ashar\\OneDrive\\Desktop\\bus",
+  "appDir": "C:\\Users\\ashar\\OneDrive\\Desktop\\bus france",
   "relativeAppDir": "",
   "files": [
     ".next\\routes-manifest.json",
